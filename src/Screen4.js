@@ -4,7 +4,7 @@ import facebook from "./assets/facebook.png";
 
 const Screen4 = () => {
   return (
-    <div className="ml-2 pt-20">
+    <div className="ml-2 pt-20 w-[375px] h-[800px]">
       <div className="flex flex-col">
         <h1 className="text-2xl font-bold">Welcome Back</h1>
         <div className="mt-10">

@@ -2,7 +2,7 @@ import React from "react";
 import img from "./assets/image2.png";
 const Screen2 = () => {
   return (
-    <div className="h-[800px] w-[375px] bg-white p-4">
+    <div className="h-[800px] w-[375px] bg-white p-4 ">
       <span className="underline text-[#B0C0FE] text-right">Skip</span>
       <div className="width-[352px] h-[234px] my-20 ml-2">
         <img src={img} alt="" className="size-full" />

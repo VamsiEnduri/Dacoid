@@ -3,7 +3,7 @@ import search from "./assets/search.png";
 import facebook from "./assets/facebook.png";
 const Screen3 = () => {
   return (
-    <div className="flex flex-col justify-start m-5">
+    <div className="flex flex-col justify-start m-5 w-[375px] h-[800px]">
       <h1 className=" text-2xl font-bold mt-1">Create an account</h1>
       <div className="flex flex-col justify-center items-center gap-y-4">
         <div className="mt-10">

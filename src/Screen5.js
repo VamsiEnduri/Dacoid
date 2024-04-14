@@ -2,7 +2,7 @@ import React from "react";
 
 const Screen5 = () => {
   return (
-    <div className="m-4">
+    <div className="m-4 w-[375px] h-[800px]">
       <h1 className="font-bold text-center text-2xl mt-10">
         What are your goals?
       </h1>
