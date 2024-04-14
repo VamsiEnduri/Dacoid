@@ -9,7 +9,7 @@ import right from "./assets/chevron.png";
 import add from "./assets/add.png";
 const Screen6 = () => {
   return (
-    <div className="bg-[#fcfcfc] m-4 relative">
+    <div className="bg-[#fcfcfc] m-4 relative w-[375px] h-[800px]">
       <div className="text-center">
         <div className="flex justify-start items-center mt-5">
           <img src={left} alt="" className="size-[20px]" />
